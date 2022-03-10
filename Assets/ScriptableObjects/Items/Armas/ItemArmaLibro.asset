@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ec0944da61d2449495a2181f3e0b339, type: 3}
+  m_Name: ItemArmaLibro
+  m_EditorClassIdentifier: 
+  ID: ArmaLibro
+  Nombre: Libro de hechizos
+  Icono: {fileID: 21300000, guid: d853019d6b62044b59840e30ae3d37bd, type: 3}
+  Descripcion: Libro de hechizos que permite lanzar poderes magicos hacia los enemigos
+  tipo: 0
+  EsConsumible: 0
+  EsAcumulable: 0
+  AcumulacionMax: 1
+  Cantidad: 0
+  Arma: {fileID: 11400000, guid: d96b156ba0f734f639cac36295b9546b, type: 2}
